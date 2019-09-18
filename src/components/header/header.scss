@@ -1,0 +1,11 @@
+$fontFam: cursive;
+
+header {
+    background-color: rgb(186, 151, 189);
+    h1{
+        font-size:50px;
+        font-family: $fontFam;
+        text-decoration: underline;
+    }
+    text-align: center;
+}

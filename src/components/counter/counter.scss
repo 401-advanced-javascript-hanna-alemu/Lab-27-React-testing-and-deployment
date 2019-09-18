@@ -1,0 +1,20 @@
+$marginAll: 60px;
+
+body {
+    background-color: rgb(144, 100, 165);
+    text-align: center;
+}
+
+
+a {
+    background-color: rgb(56, 23, 78);
+    color: beige;
+    font-size: 100px;
+    margin: $marginAll;
+    
+}
+
+span {
+    font-size: 200px;
+    margin: $marginAll;
+}
